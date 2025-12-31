@@ -24,5 +24,9 @@
 
 #
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/m-artioli/m-artioli/output/github-snake.svg" alt="Snake Game" />
+</div>
+
 
 
