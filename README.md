@@ -20,8 +20,8 @@
 - Eu estou cursando Análise e Desenvolvimento de sistemas (ADS) na UNINOVE atualmente no 2º semestre
 - Estudando pela Alura, e participo de alguns bootcamp da DIO. Gosto bastante de resolver problemas e gosto de praticar. 
 - Nas horas vagas, sou fã de <b>Fórmula 1</b> e adoro maratonar filmes e séries.
-- Gosto bastante de aprender com os outros.
-
+  
+_"Você não será apenas um digitador de códigos. Você será um solucionador de problemas que usa a tecnologia para gerar valor."_
 #
 
 <div align="center">
