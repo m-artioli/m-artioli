@@ -1,32 +1,114 @@
-
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="37"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="37" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="37"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="37" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="37" />
-</div>
 
-<h2 align="left">
-  <img src="https://github.com/user-attachments/assets/2a82aa70-66f2-498b-9681-cc003c4097ec" width="35" align="center" />
-  <span>Sobre mim</span>
-</h2>
-<p>  👋 Olá, pessoal! Sou o <b>Matheus</b>, mas pode me chamar de <b>Artioli</b>. 
-  Tenho 22 anos, sou nascido e criado em São Paulo - SP e, Gosto da área que eu escolhi, desde que me conheço por gente, imagina você gostar de algo e isso dar dinheiro ? isso pra mim é incrivel. 
+# Matheus Artioli
+
+**Suporte de TI • Redes • Linux • Cibersegurança**
+
+<p>
+Em transição para a área de TI, com foco em <b>Suporte Técnico</b>, <b>Infraestrutura</b>, <b>Redes</b> e <b>Linux</b>.  
+Construindo base prática para atuar com <b>Help Desk</b>, <b>Service Desk</b>, <b>NOC</b> e, no longo prazo, <b>Segurança da Informação</b>.
 </p>
 
-- Buscando uma carreira como programador Full-Stack
-- Gosto de desenvolvimento Web e Software.
-- Eu estou cursando Análise e Desenvolvimento de sistemas (ADS) na UNINOVE atualmente no 2º semestre
-- Estudando pela Alura, e participo de alguns bootcamp da DIO. Gosto bastante de resolver problemas e gosto de praticar. 
-- Nas horas vagas, sou fã de <b>Fórmula 1</b> e adoro maratonar filmes e séries.
-  
-_"Você não será apenas um digitador de códigos. Você será um solucionador de problemas que usa a tecnologia para gerar valor."_
-#
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Eu sou o **Matheus**, mas pode me chamar de **Artioli**.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNINOVE** e estou direcionando minha carreira para a área de **TI operacional**, com foco em suporte, infraestrutura, redes e Linux.
+
+Hoje, meu objetivo é construir uma base sólida para entrar na área por meio de oportunidades como:
+
+- **Suporte de TI**
+- **Help Desk / Service Desk**
+- **Infraestrutura**
+- **Redes**
+- **NOC**
+
+Gosto de tecnologia porque ela me desafia a **entender problemas, investigar causas e encontrar soluções práticas**. É exatamente esse tipo de trabalho que quero fazer profissionalmente.
+
+---
+
+## 🚀 Foco atual
+
+- Estudando **Redes de Computadores**
+- Aprendendo **Linux** e linha de comando
+- Evoluindo em **fundamentos de infraestrutura**
+- Construindo base em **cibersegurança**
+- Organizando projetos e documentações técnicas no GitHub
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" />
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- **Redes de Computadores**
+- **Linux**
+- **Troubleshooting**
+- **Fundamentos de Infraestrutura**
+- **Cibersegurança**
+- **SQL**
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco minha primeira oportunidade em TI para atuar com:
+
+- Suporte Técnico
+- Help Desk / Service Desk
+- Infraestrutura
+- Redes
+- NOC
+
+Quero crescer em uma área onde eu possa unir **raciocínio lógico**, **resolução de problemas**, **diagnóstico técnico** e **evolução constante**.
+
+---
+
+## 📌 Sobre este GitHub
+
+Aqui você vai encontrar minha evolução prática na área de tecnologia, com foco em:
+
+- estudos
+- anotações
+- exercícios
+- documentação técnica
+- projetos voltados para suporte, redes, Linux e segurança
+
+A ideia é transformar aprendizado em **evidência real de evolução**.
+
+---
+
+## 🎬 Interesses pessoais
+
+Nas horas vagas, gosto bastante de:
+
+- **Fórmula 1**
+- filmes e séries
+- games
+
+---
+
+## 💬 Frase que representa minha caminhada
+
+> “Não quero apenas estudar tecnologia. Quero construir competência real para resolver problemas de verdade.”
+
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/m-artioli/m-artioli/output/github-snake.svg" alt="Snake Game" />
 </div>
-
-
-
