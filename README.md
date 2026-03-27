@@ -1,114 +1,105 @@
-<div align="center">
-
 # Matheus Artioli
 
-**Suporte de TI • Redes • Linux • Cibersegurança**
-
-<p>
-Em transição para a área de TI, com foco em <b>Suporte Técnico</b>, <b>Infraestrutura</b>, <b>Redes</b> e <b>Linux</b>.  
-Construindo base prática para atuar com <b>Help Desk</b>, <b>Service Desk</b>, <b>NOC</b> e, no longo prazo, <b>Segurança da Informação</b>.
-</p>
-
-</div>
+**Suporte de TI · Infraestrutura · Redes · Linux · Cibersegurança**  
+São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/matheusartioli/)
 
 ---
 
-## 👨‍💻 Sobre mim
+## Quem sou
 
-Olá! Eu sou o **Matheus**, mas pode me chamar de **Artioli**.
+Profissional em transição estruturada para TI — não estou começando do zero, estou redirecionando com base real.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNINOVE** e estou direcionando minha carreira para a área de **TI operacional**, com foco em suporte, infraestrutura, redes e Linux.
+Tenho 3+ anos de experiência em operações corporativas com uso intenso de sistemas ERP, SQL/Oracle e dashboards em ambientes de alta demanda. Hoje estou construindo a camada técnica sobre essa base, com trilha definida em **Infraestrutura → Redes → Linux → Cibersegurança / SOC**.
 
-Hoje, meu objetivo é construir uma base sólida para entrar na área por meio de oportunidades como:
-
-- **Suporte de TI**
-- **Help Desk / Service Desk**
-- **Infraestrutura**
-- **Redes**
-- **NOC**
-
-Gosto de tecnologia porque ela me desafia a **entender problemas, investigar causas e encontrar soluções práticas**. É exatamente esse tipo de trabalho que quero fazer profissionalmente.
+Busco vaga de entrada em **Help Desk, Service Desk, Infraestrutura Jr. ou NOC**.
 
 ---
 
-## 🚀 Foco atual
+## O que estou construindo
 
-- Estudando **Redes de Computadores**
-- Aprendendo **Linux** e linha de comando
-- Evoluindo em **fundamentos de infraestrutura**
-- Construindo base em **cibersegurança**
-- Organizando projetos e documentações técnicas no GitHub
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" />
-</div>
+```
+Suporte de TI / Help Desk
+         │
+         ▼
+Infraestrutura Jr. + Redes
+         │
+         ▼
+Linux Administration
+         │
+         ▼
+Cibersegurança / SOC
+```
 
 ---
 
-## 📚 Atualmente estudando
+## Formação técnica em andamento
 
-- **Redes de Computadores**
-- **Linux**
-- **Troubleshooting**
-- **Fundamentos de Infraestrutura**
-- **Cibersegurança**
-- **SQL**
-
----
-
-## 🎯 Objetivo profissional
-
-Busco minha primeira oportunidade em TI para atuar com:
-
-- Suporte Técnico
-- Help Desk / Service Desk
-- Infraestrutura
-- Redes
-- NOC
-
-Quero crescer em uma área onde eu possa unir **raciocínio lógico**, **resolução de problemas**, **diagnóstico técnico** e **evolução constante**.
+| Curso | Plataforma | Status |
+|-------|-----------|--------|
+| Tecnólogo em Análise e Desenvolvimento de Sistemas | UNINOVE | Em andamento (jul/2025 – dez/2027) |
+| Formação Redes de Computadores | Alura | Em andamento |
+| Linux Onboarding: obtendo e tratando informações do sistema | Alura | Em andamento |
+| Formação Cibersegurança | Alura | Em andamento |
+| Fundamentos de TI | Udemy | Em andamento |
 
 ---
 
-## 📌 Sobre este GitHub
+## Projetos práticos
 
-Aqui você vai encontrar minha evolução prática na área de tecnologia, com foco em:
+### 🔹 Mapeamento de rede doméstica
+Documentação técnica de ambiente de rede local: topologia, endereçamento IP, identificação de dispositivos e análise de tráfego.  
+`Ferramentas: CLI, ping, traceroute, nslookup, netstat`
 
-- estudos
-- anotações
-- exercícios
-- documentação técnica
-- projetos voltados para suporte, redes, Linux e segurança
+### 🔹 Diagnóstico de rede via CLI
+Relatório técnico de comandos de diagnóstico de rede com análise de resultados e interpretação de saídas.  
+`Ferramentas: ping, traceroute, netstat, nslookup, ipconfig/ifconfig`
 
-A ideia é transformar aprendizado em **evidência real de evolução**.
+### 🔹 Análise de riscos — ambiente doméstico
+Aplicação de framework básico de Segurança da Informação para identificação de riscos e controles em rede doméstica.  
+`Referência: conceitos de CIA Triad, análise de vulnerabilidades`
 
----
-
-## 🎬 Interesses pessoais
-
-Nas horas vagas, gosto bastante de:
-
-- **Fórmula 1**
-- filmes e séries
-- games
+### 🔹 Administração Linux — documentação prática
+Documentação de comandos e procedimentos de administração Linux: gerenciamento de usuários, permissões (chmod/chown), processos e logs do sistema.  
+`Ambiente: Linux CLI`
 
 ---
 
-## 💬 Frase que representa minha caminhada
+## Stack e conhecimentos
 
-> “Não quero apenas estudar tecnologia. Quero construir competência real para resolver problemas de verdade.”
+**Redes & Infraestrutura**  
+`TCP/IP` `DNS` `Endereçamento IP` `Sub-redes` `Protocolos` `Troubleshooting`
+
+**Sistemas & Dados**  
+`Linux CLI` `SQL` `Oracle SQL` `Sistemas Operacionais` `GitHub`
+
+**Segurança**  
+`Fundamentos de Cibersegurança` `Análise de Riscos` `Controles de SI`
+
+**Ferramentas corporativas**  
+`Oracle Orion (ERP)` `Construshow` `VD+` `VarejoFácil` `MS Office` `Google Workspace` `Dashboards`
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/m-artioli/m-artioli/output/github-snake.svg" alt="Snake Game" />
-</div>
+## Experiência anterior relevante para TI
+
+**Grupo Innova Steel** · Assistente Administrativo *(set/2025 – atual)*  
+- 50+ consultas SQL/Oracle mensais no sistema Orion para geração de relatórios operacionais  
+- Dashboards de KPI consolidando dados de 15+ franquias  
+- Suporte operacional a rede de franquias via ERP Construshow  
+
+**O Boticário** · Assistente de Operações Logísticas *(jan/2024 – jun/2025)*  
+- Operação de 3 sistemas corporativos simultâneos (VD+, Plataforma Logística, VarejoFácil)  
+- Referência técnica da equipe para resolução de problemas sistêmicos  
+- Controle de estoque com zero divergências em 18 meses de auditoria  
+
+---
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/matheusartioli](https://www.linkedin.com/in/matheusartioli/)
+- **E-mail:** matheus.artioli@outlook.com
+- **Localização:** São Paulo, SP
+
+---
+
+*Portfólio em construção — projetos sendo documentados e publicados.*
